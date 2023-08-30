@@ -1,0 +1,1 @@
+the program for recognize audio and transcribation it in text writen on language Python and using library whisper from openai
